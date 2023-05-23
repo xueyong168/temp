@@ -6,5 +6,5 @@
 # Date    ：2023/5/23 18:00
 
 
-print('hello world')
+print('helloworld')
 
